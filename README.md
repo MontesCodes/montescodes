@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br />
 ## Monties aka MontesCodes here....
-
+<br />
 ## I am a Self Taught Web Developer 
 
 - 🌱 I’m currently learning JavaScript, CSS and HTML
