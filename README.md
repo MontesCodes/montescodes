@@ -9,7 +9,7 @@
 ## I am a Self Taught Web Developer 
 
 - 🌱 I’m currently learning JavaScript, CSS and HTML
--- through
+- through
 <!--
 **MontesCodes/montescodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
