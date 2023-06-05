@@ -8,8 +8,11 @@
 
 ## I am a Self Taught Web Developer 
 
-- 🌱 I’m currently learning JavaScript, CSS and HTML
-- through
+- 🌱 I’m currently learning JavaScript, CSS and HTML through the following means:
+- freecodecamp.org
+- Udemy.com
+- 
+
 <!--
 **MontesCodes/montescodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
