@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br />
 
-## Monties aka MontesCodes here....
+## Monties here....
 
 <br />
 <br />
