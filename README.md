@@ -6,7 +6,7 @@
 <br />
 <br />
 
-<a href="https://montescodes.w3spaces.com/"><img src="https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/6970213681619533830~c5_100x100.jpeg?x-expires=1695337200&x-signature=y9lPQdahZoBR8vTMhWlLDUpLdD0%3D" alt="montescodes.w3spaces.com" height="280px" width="230px" align="right" this.target="_blank"></a>
+<a href="https://montescodes.w3spaces.com/"><img src="https://avatars.githubusercontent.com/u/76916894?v=4" alt="montescodes.w3spaces.com" height="280px" width="230px" align="right" this.target="_blank"></a>
 
 ## I am a Self Taught Web Developer 
 
