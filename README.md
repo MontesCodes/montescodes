@@ -6,7 +6,7 @@
 <br />
 <br />
 
-<a href="https://www.amazon.com/JavaScript-Workshop-Interactive-Approach-Learning-ebook/dp/B0824584WF/ref=sr_1_1?dchild=1&keywords=The%20JavaScript%20Workshop&qid=1611056880&sr=8-1&utm_source=GitHub&utm_medium=Repository&utm_campaign=9781838641917&utm_term=JavaScript&utm_content=The%20JavaScript%20Workshop"><img src="[https://github.com/PacktWorkshops/Workshop-Covers/blob/master/The%20JavaScript%20Workshop.png](https://montescodes.w3spaces.com/images/proFilePic1.jpg)" alt="The JavaScript Workshop" height="280px" width="230px" align="right" this.target="_blank"></a>
+<a href="https://www.amazon.com/JavaScript-Workshop-Interactive-Approach-Learning-ebook/dp/B0824584WF/ref=sr_1_1?dchild=1&keywords=The%20JavaScript%20Workshop&qid=1611056880&sr=8-1&utm_source=GitHub&utm_medium=Repository&utm_campaign=9781838641917&utm_term=JavaScript&utm_content=The%20JavaScript%20Workshop"><img src="https://montescodes.w3spaces.com/images/proFilePic1.jpg" alt="The JavaScript Workshop" height="280px" width="230px" align="right" this.target="_blank"></a>
 
 ## I am a Self Taught Web Developer 
 
