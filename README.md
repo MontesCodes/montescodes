@@ -11,7 +11,11 @@
 - 🌱 I’m currently learning JavaScript, CSS and HTML through the following means:
 - freecodecamp.org
 - Udemy.com
-- 
+- theodinproject.com
+- developer.mozilla.org/en-US/docs/Learn
+- my-learning.w3schools.com
+- javascript.info
+- Reading - The JavaScript Workshop A New Interactive Approach to Learning JavaScript
 
 <!--
 **MontesCodes/montescodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
