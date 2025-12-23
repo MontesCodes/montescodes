@@ -11,6 +11,7 @@
 ## I am a Self Taught Web Developer 
 
 - 🌱 I’m currently learning JavaScript, CSS and HTML through the following means:
+- web.dev/learn
 - freecodecamp.org
 - Udemy.com
 - theodinproject.com
